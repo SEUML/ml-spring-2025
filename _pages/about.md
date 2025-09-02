@@ -17,11 +17,8 @@ This course will cover the fundamental principles and usage methods of classic m
 - **Instructor:** Associate Professor [Tong Wei](http://palm.seu.edu.cn/weit) (weit@seu.edu.cn)
 - **Teaching Assistants:**	Wei Chen, Jun-Jie Wang
 - **Grading:**	Final exam (60%) + Assignments (40%)
-<<<<<<< HEAD
-  - **Discussion:** QQ (949244818)
-=======
-- **Discussion:** QQ (群号：949244818)
->>>>>>> 25ce230dc3ebe70312c92d8d26cc71dcc2bd67ed
+- **Discussion:** QQ (949244818)
+
 
 
 ***
