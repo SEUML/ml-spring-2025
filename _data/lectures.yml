@@ -1,5 +1,5 @@
 
-- date: Tues, 2024/02/20
+- date: Tues, 2025/09/23
   lecturer: 
   title: >
     <strong>Introduction to Machine Learning</strong>
@@ -8,7 +8,7 @@
     - <a href="https://palm.seu.edu.cn/weit/ml24/resources/VC.pdf" target="_blank">Rademacher Complexity and VC-Dimension</a>
   logistics:
 
-- date: Thurs, 2024/02/22
+- date: Thurs, 2025/09/25
   lecturer:
   title: >
     <strong>Introduction to Machine Learning (continued), Linear Regression</strong>
@@ -16,7 +16,7 @@
   readings:
   logistics:
 
-- date: Tues, 2024/02/27
+- date: Tues, 2025/09/28
   lecturer:
   title: >
     <strong>Linear Regression (continued)</strong>
@@ -26,14 +26,14 @@
     - <a href="https://cseweb.ucsd.edu//~elkan/250B/logreg.pdf" target="_blank"> Maximum Liklihood Estimation </a>
   logistics:
 
-- date: Thurs, 2024/02/29
+- date: Thurs, 2025/09/30
   title: >
     <strong>Linear Regression (continued), Logistic Regression</strong>
   slides: "../assets/slides/lecture2.pdf"
   readings:
   logistics:
 
-- date: Tues, 2024/03/05
+- date: Tues, 2025/10/09
   title: >
     <strong>Logistic Regression (continued)</strong>
   slides: "../assets/slides/lecture3.pdf"
