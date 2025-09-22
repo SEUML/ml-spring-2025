@@ -3,7 +3,9 @@
   lecturer: 
   title: >
     <strong>Introduction to Machine Learning</strong>
-  slides: "../assets/slides/lecture1.pdf"
+  slides: 
+    - "../assets/slides/lecture0.pdf"
+    - "../assets/slides/lecture1.pdf"
   readings:
     - <a href="https://palm.seu.edu.cn/weit/ml24/resources/VC.pdf" target="_blank">Rademacher Complexity and VC-Dimension</a>
   logistics:
