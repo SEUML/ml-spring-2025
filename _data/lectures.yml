@@ -26,7 +26,7 @@
     - <a href="https://cseweb.ucsd.edu//~elkan/250B/logreg.pdf" target="_blank"> Maximum Liklihood Estimation </a>
   logistics:
 
-- date: Thurs, 2025/09/30
+- date: Tues, 2025/09/30
   title: >
     <strong>Linear Regression (continued), Logistic Regression</strong>
   slides: "../assets/slides/lecture2.pdf"
