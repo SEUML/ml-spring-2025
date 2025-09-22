@@ -31,15 +31,15 @@
     <strong>Linear Regression (continued), Logistic Regression</strong>
   slides: "../assets/slides/lecture2.pdf"
   readings:
-  logistics:
+  logistics: 注意，今天有实验课
 
-- date: Tues, 2025/10/09
-  title: >
-    <strong>Logistic Regression (continued)</strong>
-  slides: "../assets/slides/lecture3.pdf"
-  readings: 
-    - <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
-  logistics: HW1 Out
+# - date: Tues, 2025/10/09
+#   title: >
+#     <strong>Logistic Regression (continued)</strong>
+#   slides: "../assets/slides/lecture3.pdf"
+#   readings: 
+#     - <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
+#   logistics: HW1 Out
 
 # - date: Thurs, 2024/03/07
 #   title: >
