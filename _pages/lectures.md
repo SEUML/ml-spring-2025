@@ -35,7 +35,10 @@ title: Schedule
         <br />
         [
             {% if lecture.slides %}
-              <a href="{{ lecture.slides }}" target="_blank">slides</a>
+            {% for slide in lecture.slides %}
+                <a href="{{ slide }}" target="_blank">slides #{{forloop.index}}</a>
+            {% endfor %}
+              
             {% else %}
               slides
             {% endif %}
