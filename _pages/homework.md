@@ -28,7 +28,7 @@ There will be four homework assignments during the semester. You may discuss the
 There will be four laboratories. Each laboratory is meant to implement some machine learning algorithms and then solidify the student's understanding.
 
 
-- Laboratory 1: (*released: TBA, deadline: TBA*)
+- Laboratory 1: (*released: Sep 23, 2025, deadline: Oct. 14, 2025*)
 <br>
 [[Warm-up]]({{ "/assets/assignments/lab1/Prerequisites.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[Task]]({{ "/assets/assignments/lab1/Experiment_1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}  
