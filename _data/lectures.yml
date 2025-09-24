@@ -14,7 +14,7 @@
   lecturer:
   title: >
     <strong>Introduction to Machine Learning (continued), Linear Regression</strong>
-  slides: "../assets/slides/lecture1.pdf"
+  slides: "../assets/slides/lecture2.pdf"
   readings:
   logistics:
 
@@ -31,7 +31,7 @@
 - date: Tues, 2025/09/30
   title: >
     <strong>Linear Regression (continued), Logistic Regression</strong>
-  slides: "../assets/slides/lecture2.pdf"
+  slides: "../assets/slides/lecture3.pdf"
   readings:
   logistics: 今天有实验课
 
