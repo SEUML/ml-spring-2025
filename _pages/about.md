@@ -13,7 +13,7 @@ This course will cover the fundamental principles and usage methods of classic m
 ***
 
 - **Time:** 理论课：1-14周 星期二 3-4节,1-14周 星期四 3-4节；实验课：2-10周(双),12-14周 星期二 11-12节
-- **Location:** 教二-307（理论课）、金智楼（实验课）
+- **Location:** 教二-307（理论课）；实验课地点待定
 - **Instructor:** Associate Professor [Tong Wei](http://palm.seu.edu.cn/weit) (weit@seu.edu.cn)
 - **Teaching Assistants:**	Wei Chen, Jun-Jie Wang
 - **Grading:**	Final exam (60%) + Assignments (40%)

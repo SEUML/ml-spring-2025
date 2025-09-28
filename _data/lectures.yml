@@ -14,7 +14,7 @@
   lecturer:
   title: >
     <strong>Introduction to Machine Learning (continued), Linear Regression</strong>
-  slides: "../assets/slides/lecture1.pdf"
+  slides: "../assets/slides/lecture2.pdf"
   readings:
   logistics:
 
@@ -26,14 +26,14 @@
   readings:
     - <a href="https://pan.seu.edu.cn/link/0DCABBC986A29437B634E3C9B8F06F0D" target="_blank">	Newton's Method & Gradient Descent</a>
     - <a href="https://cseweb.ucsd.edu//~elkan/250B/logreg.pdf" target="_blank"> Maximum Liklihood Estimation </a>
-  logistics:
+  logistics: 补10月7号课程
 
 - date: Tues, 2025/09/30
   title: >
     <strong>Linear Regression (continued), Logistic Regression</strong>
-  slides: "../assets/slides/lecture2.pdf"
+  slides: "../assets/slides/lecture3.pdf"
   readings:
-  logistics: 注意，今天有实验课
+  logistics: 今天有实验课
 
 # - date: Tues, 2025/10/09
 #   title: >
