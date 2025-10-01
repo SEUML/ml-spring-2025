@@ -35,37 +35,165 @@
   readings:
   logistics: 今天有实验课
 
-# - date: Tues, 2025/10/09
-#   title: >
-#     <strong>Logistic Regression (continued)</strong>
-#   slides: "../assets/slides/lecture3.pdf"
-#   readings: 
-#     - <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
-#   logistics: HW1 Out
+- date: Thurs, 2025/10/09
+  title: >
+    <strong>Logistic Regression (continued)</strong>
+  slides: "../assets/slides/lecture3.pdf"
+  readings: 
+    - <a href="https://www.princeton.edu/~aaa/Public/Teaching/ORF523/S16/ORF523_S16_Lec7_gh.pdf" target="_blank"> Convexity </a>
+    - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
+  logistics: HW1 Out
 
-# - date: Thurs, 2024/03/07
+
+- date: Tues, 2025/10/14
+  title: >
+    <strong> Model Selection & Evaluation</strong>
+  slides: "../assets/slides/lecture4.pdf"
+  readings: 
+    - <a href="https://en.wikipedia.org/wiki/Multi-label_classification" target="_blank"> Multi-class and Multi-labels </a>
+  logistics:
+
+- date: Thurs, 2025/10/16
+  title: >
+    <strong> Model Selection & Evaluation (continued)</strong>
+  slides: "../assets/slides/lecture4.pdf"
+  readings: 
+    - <a href="https://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf" target="_blank">The Relationship Between Precision-Recall and ROC Curves </a>
+  logistics: 
+
+# - date: Tues, 2025/10/21
 #   title: >
-#     <strong>Logistic Regression (continued)</strong>
-#   slides: "../assets/slides/lecture3.pdf"
+#     <strong> Support Vector Machine (Formulation) </strong>
+#   slides: "../assets/slides/lecture5.pdf"
 #   readings: 
-#     - <a href="https://en.wikipedia.org/wiki/Taylor_series" target="_blank"> Taylor series </a>
+#   logistics: 
+
+# - date: Thurs, 2025/10/23
+#   title: >
+#     <strong> Support Vector Machine (Optimization)</strong>
+#   slides: "../assets/slides/lecture5.pdf"
+#   readings: 
+#   -  <a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf" target="_blank"> Primal and dual problems </a>
+#   -  <a href="https://alex.smola.org/teaching/cmu2013-10-701x/slides/R5-duality_svm.pdf" target="_blank"> Duality and SVM </a>
+#   logistics: 
+
+# - date: Tues, 2025/10/28
+#   title: >
+#     <strong> Support Vector Machine (Soft margin)</strong>
+#   slides: "../assets/slides/lecture5.pdf"
+#   readings: 
+#     - <a href="http://jitkomut.eng.chula.ac.th/optim/duality.pdf" target="_blank"> Duality Theory </a>
 #   logistics:
 
-# - date: Tues, 2024/03/12
+# - date: Thurs, 2025/10/30
 #   title: >
-#     <strong> Model Selection & Evaluation</strong>
-#   slides: "../assets/slides/lecture4.pdf"
+#     <strong> Support Vector Machine (Kernel)</strong>
+#   slides: "../assets/slides/lecture5.pdf"
+#   readings:
+#     - <a href="https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf" target="_blank"> The Representer Theorem </a>
+#   logistics: 
+
+# - date: Tues, 2025/11/04
+#   title: >
+#     <strong> Neural Networks: Introduction</strong>
+#   slides: "../assets/slides/lecture6.pdf"
 #   readings: 
-#     - <a href="https://en.wikipedia.org/wiki/Multi-label_classification" target="_blank"> Multi-class and Multi-labels </a>
+#   logistics: 
+  
+# - date: Thurs, 2025/11/06
+#   title: >
+#     <strong> Neural Networks: Introduction (continued) </strong>
+#   slides: "../assets/slides/lecture6.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Tues, 2025/11/11
+#   title: >
+#     <strong> Backpropagation</strong>
+#   slides: "../assets/slides/lecture7.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Thurs, 2025/11/13
+#   title: >
+#     <strong> Backpropagation</strong>
+#   slides: "../assets/slides/lecture7.pdf"
+#   readings: 
 #   logistics:
 
-# - date: Thurs, 2024/03/14
+# - date: Tues, 2025/11/18
 #   title: >
-#     <strong> Model Selection & Evaluation (continued)</strong>
-#   slides: "../assets/slides/lecture4.pdf"
+#     <strong> Convolutional Neural Network </strong>
+#   slides: "../assets/slides/lecture8.pdf"
 #   readings: 
-#     - <a href="https://pages.cs.wisc.edu/~jdavis/davisgoadrichcamera2.pdf" target="_blank">The Relationship Between Precision-Recall and ROC Curves </a>
-#   logistics: Lab1 Out
+#   logistics:
+
+# - date: Thurs, 2025/11/20
+#   title: >
+#     <strong> Recurrent Neural Network </strong>
+#   slides: "../assets/slides/lecture9.pdf"
+#   readings: 
+#   logistics:
+
+# - date: Tues, 2025/11/25
+#   title: >
+#     <strong> Recurrent Neural Network </strong>
+#   slides: "../assets/slides/lecture9.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Thurs, 2025/11/27
+#   title: >
+#     <strong> Decision Tree</strong>
+#   slides: "../assets/slides/lecture10.pdf"
+#   readings: 
+#     - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
+#   logistics: 
+
+# - date: Tues, 2025/12/02
+#   title: >
+#     <strong> Decision Tree (continued)</strong>
+#   slides: "../assets/slides/lecture10.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Thurs, 2025/12/04
+#   title: >
+#     <strong> Ensemble </strong>
+#   slides: "../assets/slides/lecture11.pdf"
+#   readings: 
+#   - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
+#   - <a href="https://www.cs.toronto.edu/~rgrosse/courses/csc311_f20/slides/lec06.pdf" target="_blank"> Bagging, AdaBoost </a>
+#   logistics:
+
+# - date: Tues, 2025/12/09
+#   title: >
+#     <strong> Ensemble </strong>
+#   slides: "../assets/slides/lecture11.pdf"
+#   readings: 
+#   - <a href="https://www.youtube.com/watch?v=UHBmv7qCey4" target="_blank"> Boosting (lecture@MIT) </a>
+#   logistics: 
+
+# - date: Thurs, 20245/12/11
+#   title: >
+#     <strong> Clustering </strong>
+#   slides: "../assets/slides/lecture12.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Tues, 2025/12/16
+#   title: >
+#     <strong> Clustering </strong>
+#   slides: "../assets/slides/lecture12.pdf"
+#   readings: 
+#   logistics: 
+
+# - date: Thurs, 2025/12/25
+#   title: >
+#     <strong> Review, Q&A </strong>
+#   slides: "../assets/slides/lecture15.pdf"
+#   readings: 
+#   logistics: 
 
 # - date: Tues, 2024/03/19
 #   title: >
@@ -84,110 +212,6 @@
 #   - <a href="https://en.wikipedia.org/wiki/Covariance_matrix" target="_blank"> Covariance matrix </a>
 #   - <a href="https://en.wikipedia.org/wiki/Mahalanobis_distance" target="_blank"> Mahalanobis distance </a>
 #   logistics:
-
-# - date: Tues, 2024/03/26
-#   title: >
-#     <strong> Support Vector Machine (Formulation) </strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#   logistics: HW1 Due
-
-# - date: Thurs, 2024/03/28
-#   title: >
-#     <strong> Support Vector Machine (Optimization)</strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#   -  <a href="https://www.stat.cmu.edu/~ryantibs/convexopt-F15/scribes/11-dual-gen-scribed.pdf" target="_blank"> Primal and dual problems </a>
-#   -  <a href="https://alex.smola.org/teaching/cmu2013-10-701x/slides/R5-duality_svm.pdf" target="_blank"> Duality and SVM </a>
-#   logistics: Lab2 Out
-
-# - date: Tues, 2024/04/02
-#   title: >
-#     <strong> Support Vector Machine (Soft margin)</strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#     - <a href="http://jitkomut.eng.chula.ac.th/optim/duality.pdf" target="_blank"> Duality Theory </a>
-#   logistics: Lab1 Due; HW2 Out
-
-# - date: Thurs, 2024/04/04
-#   title: >
-#     <strong>No class（清明节放假)</strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#   logistics: 
-
-# - date: Tues, 2024/04/09
-#   title: >
-#     <strong> Support Vector Machine (Kernel)</strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings:
-#     - <a href="https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf" target="_blank"> The Representer Theorem </a>
-#   logistics: 
-
-# - date: Thurs, 2024/04/11
-#   title: >
-#     <strong> Neural Networks: Introduction</strong>
-#   slides: "../assets/slides/lecture7.pdf"
-#   readings: 
-#   logistics: 
-  
-
-# - date: Tues, 2024/04/16
-#   title: >
-#     <strong> Neural Networks: Introduction (continued) </strong>
-#   slides: "../assets/slides/lecture7.pdf"
-#   readings: 
-#   logistics: Lab2 Due
-
-# - date: Thurs, 2024/04/18
-#   title: >
-#     <strong> Backpropagation</strong>
-#   slides: "../assets/slides/lecture8.pdf"
-#   readings: 
-#   logistics: 
-
-# - date: Tues, 2024/04/23
-#   title: >
-#     <strong> Backpropagation</strong>
-#   slides: "../assets/slides/lecture8.pdf"
-#   readings: 
-#   logistics: HW2 Due
-
-# - date: Thurs, 2024/04/25
-#   title: >
-#     <strong> Convolutional Neural Network </strong>
-#   slides: "../assets/slides/lecture9.pdf"
-#   readings: 
-#   logistics: Lab3 Out
-
-# - date: Sun, 2024/04/28
-#   title: >
-#     <strong> Recurrent Neural Network </strong>
-#   slides: "../assets/slides/lecture10.pdf"
-#   readings: 
-#   logistics:
-
-# - date: Tues, 2024/04/30
-#   title: >
-#     <strong> Recurrent Neural Network </strong>
-#   slides: "../assets/slides/lecture10.pdf"
-#   readings: 
-#   logistics: HW3 Out
-
-# - date: Tues, 2024/05/07
-#   title: >
-#     <strong> Decision Tree</strong>
-#   slides: "../assets/slides/lecture11.pdf"
-#   readings: 
-#     - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
-#   logistics: 
-
-# - date: Thurs, 2024/05/09
-#   title: >
-#     <strong> Decision Tree (continued)</strong>
-#   slides: "../assets/slides/lecture11.pdf"
-#   readings: 
-#   logistics: 
 
 # - date: Tues, 2024/05/14
 #   title: >
@@ -213,41 +237,3 @@
 #     - <a href="https://www.lri.fr/~sebag/COURS/EM_algorithm.pdf" target="_blank"> The Expectation Maximization Algorithm </a>
 #   logistics: HW3 Due; HW4 Out
 
-# - date: Thurs, 2024/05/23
-#   title: >
-#     <strong> Ensemble </strong>
-#   slides: "../assets/slides/lecture13.pdf"
-#   readings: 
-#   - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
-#   - <a href="https://www.cs.toronto.edu/~rgrosse/courses/csc311_f20/slides/lec06.pdf" target="_blank"> Bagging, AdaBoost </a>
-#   logistics: Lab4 Out
-
-
-# - date: Tues, 2024/05/28
-#   title: >
-#     <strong> Ensemble </strong>
-#   slides: "../assets/slides/lecture13.pdf"
-#   readings: 
-#   - <a href="https://www.youtube.com/watch?v=UHBmv7qCey4" target="_blank"> Boosting (lecture@MIT) </a>
-#   logistics: 
-
-# - date: Thurs, 2024/05/30
-#   title: >
-#     <strong> Clustering </strong>
-#   slides: "../assets/slides/lecture14.pdf"
-#   readings: 
-#   logistics: 
-
-# - date: Tues, 2024/06/04
-#   title: >
-#     <strong> Clustering </strong>
-#   slides: "../assets/slides/lecture14.pdf"
-#   readings: 
-#   logistics: 
-
-# - date: Thurs, 2024/06/06
-#   title: >
-#     <strong> Review, Q&A </strong>
-#   slides: "../assets/slides/lecture15.pdf"
-#   readings: 
-#   logistics: 
