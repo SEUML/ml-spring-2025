@@ -28,7 +28,7 @@ There will be four homework assignments during the semester. You may discuss the
 There will be four laboratories. Each laboratory is meant to implement some machine learning algorithms and then solidify the student's understanding.
 
 
-- Laboratory 1: (*released: Sep 28, 2025, deadline: Oct. 19, 2025*)
+- Laboratory 1: (*released: Sep. 28, 2025, deadline: Oct. 19, 2025*)
 <br>
 [[Warm-up]]({{ "/assets/assignments/lab1/Prerequisites.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[Task]]({{ "/assets/assignments/lab1/Experiment_1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}  
@@ -39,7 +39,7 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 [[pendigit_train]]({{ "/assets/assignments/lab1/pendigit_train.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[pendigit_test]]({{ "/assets/assignments/lab1/pendigit_test.csv" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} 
 [[Solution]]({{ "/assets/assignments/lab1/solution_v1.ipynb" | relative_url }})
-- Laboratory 2: (*released: Oct 15, 2025 deadline: Nov 2， 2025*) 
+- Laboratory 2: (*released: Oct. 15, 2025 deadline: Nov. 2, 2025*) 
 <br>
 [[Task]]({{ "/assets/assignments/lab2/lab2.zip" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}
 [[Solution]]({{ "/assets/assignments/lab2/solution_v1.ipynb" | relative_url }})
