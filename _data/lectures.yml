@@ -94,19 +94,19 @@
     - <a href="https://davidrosenberg.github.io/mlcourse/Archive/2019/Lectures/05a.representer-theorem.pdf" target="_blank"> The Representer Theorem </a>
   logistics: 
 
-# - date: Tues, 2025/11/04
-#   title: >
-#     <strong> Neural Networks: Introduction</strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#   logistics: 
+- date: Tues, 2025/11/04
+  title: >
+    <strong> Neural Networks: Introduction</strong>
+  slides: "../assets/slides/lecture6.pdf"
+  readings: 
+  logistics: 
   
-# - date: Thurs, 2025/11/06
-#   title: >
-#     <strong> Neural Networks: Introduction (continued) </strong>
-#   slides: "../assets/slides/lecture6.pdf"
-#   readings: 
-#   logistics: 
+- date: Thurs, 2025/11/06
+  title: >
+    <strong> Neural Networks: Introduction (continued) </strong>
+  slides: "../assets/slides/lecture6.pdf"
+  readings: 
+  logistics: 
 
 # - date: Tues, 2025/11/11
 #   title: >
