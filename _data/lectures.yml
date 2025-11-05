@@ -108,26 +108,26 @@
   readings: 
   logistics: 
 
-# - date: Tues, 2025/11/11
-#   title: >
-#     <strong> Backpropagation</strong>
-#   slides: "../assets/slides/lecture7.pdf"
-#   readings: 
-#   logistics: 
+- date: Tues, 2025/11/11
+  title: >
+    <strong> Backpropagation</strong>
+  slides: "../assets/slides/lecture7.pdf"
+  readings: 
+  logistics: 
 
-# - date: Thurs, 2025/11/13
-#   title: >
-#     <strong> Backpropagation</strong>
-#   slides: "../assets/slides/lecture7.pdf"
-#   readings: 
-#   logistics:
+- date: Thurs, 2025/11/13
+  title: >
+    <strong> Backpropagation</strong>
+  slides: "../assets/slides/lecture7.pdf"
+  readings: 
+  logistics:
 
-# - date: Tues, 2025/11/18
-#   title: >
-#     <strong> Convolutional Neural Network </strong>
-#   slides: "../assets/slides/lecture8.pdf"
-#   readings: 
-#   logistics:
+- date: Tues, 2025/11/18
+  title: >
+    <strong> Convolutional Neural Network </strong>
+  slides: "../assets/slides/lecture8.pdf"
+  readings: 
+  logistics:
 
 # - date: Thurs, 2025/11/20
 #   title: >
