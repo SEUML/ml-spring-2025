@@ -129,65 +129,65 @@
   readings: 
   logistics:
 
-# - date: Thurs, 2025/11/20
-#   title: >
-#     <strong> Recurrent Neural Network </strong>
-#   slides: "../assets/slides/lecture9.pdf"
-#   readings: 
-#   logistics:
+- date: Thurs, 2025/11/20
+  title: >
+    <strong> Recurrent Neural Network </strong>
+  slides: "../assets/slides/lecture9.pdf"
+  readings: 
+  logistics:
 
-# - date: Tues, 2025/11/25
-#   title: >
-#     <strong> Recurrent Neural Network </strong>
-#   slides: "../assets/slides/lecture9.pdf"
-#   readings: 
-#   logistics: 
+- date: Tues, 2025/11/25
+  title: >
+    <strong> Recurrent Neural Network </strong>
+  slides: "../assets/slides/lecture9.pdf"
+  readings: 
+  logistics: 
 
-# - date: Thurs, 2025/11/27
-#   title: >
-#     <strong> Decision Tree</strong>
-#   slides: "../assets/slides/lecture10.pdf"
-#   readings: 
-#     - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
-#   logistics: 
+- date: Thurs, 2025/11/27
+  title: >
+    <strong> Decision Tree</strong>
+  slides: "../assets/slides/lecture10.pdf"
+  readings: 
+    - <a href="https://www.princeton.edu/~cuff/ele201/kulkarni_text/information.pdf" target="_blank"> Information, Entropy, and Coding </a>
+  logistics: 
 
-# - date: Tues, 2025/12/02
-#   title: >
-#     <strong> Decision Tree (continued)</strong>
-#   slides: "../assets/slides/lecture10.pdf"
-#   readings: 
-#   logistics: 
+- date: Tues, 2025/12/02
+  title: >
+    <strong> Decision Tree (continued)</strong>
+  slides: "../assets/slides/lecture10.pdf"
+  readings: 
+  logistics: 
 
-# - date: Thurs, 2025/12/04
-#   title: >
-#     <strong> Ensemble </strong>
-#   slides: "../assets/slides/lecture11.pdf"
-#   readings: 
-#   - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
-#   - <a href="https://www.cs.toronto.edu/~rgrosse/courses/csc311_f20/slides/lec06.pdf" target="_blank"> Bagging, AdaBoost </a>
-#   logistics:
+- date: Thurs, 2025/12/04
+  title: >
+    <strong> Ensemble </strong>
+  slides: "../assets/slides/lecture11.pdf"
+  readings: 
+  - <a href="https://www.cs.toronto.edu/~mbrubake/teaching/C11/Handouts/AdaBoost.pdf" target="_blank"> AdaBoost </a>
+  - <a href="https://www.cs.toronto.edu/~rgrosse/courses/csc311_f20/slides/lec06.pdf" target="_blank"> Bagging, AdaBoost </a>
+  logistics:
 
-# - date: Tues, 2025/12/09
-#   title: >
-#     <strong> Ensemble </strong>
-#   slides: "../assets/slides/lecture11.pdf"
-#   readings: 
-#   - <a href="https://www.youtube.com/watch?v=UHBmv7qCey4" target="_blank"> Boosting (lecture@MIT) </a>
-#   logistics: 
+- date: Tues, 2025/12/09
+  title: >
+    <strong> Ensemble </strong>
+  slides: "../assets/slides/lecture11.pdf"
+  readings: 
+  - <a href="https://www.youtube.com/watch?v=UHBmv7qCey4" target="_blank"> Boosting (lecture@MIT) </a>
+  logistics: 
 
-# - date: Thurs, 20245/12/11
-#   title: >
-#     <strong> Clustering </strong>
-#   slides: "../assets/slides/lecture12.pdf"
-#   readings: 
-#   logistics: 
+- date: Thurs, 2025/12/11
+  title: >
+    <strong> Clustering </strong>
+  slides: "../assets/slides/lecture12.pdf"
+  readings: 
+  logistics: 
 
-# - date: Tues, 2025/12/16
-#   title: >
-#     <strong> Clustering </strong>
-#   slides: "../assets/slides/lecture12.pdf"
-#   readings: 
-#   logistics: 
+- date: Tues, 2025/12/16
+  title: >
+    <strong> Clustering </strong>
+  slides: "../assets/slides/lecture12.pdf"
+  readings: 
+  logistics: 
 
 # - date: Thurs, 2025/12/25
 #   title: >
