@@ -43,7 +43,7 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 <br>
 [[Task]]({{ "/assets/assignments/lab2/lab2.zip" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"}
 [[Solution]]({{ "/assets/assignments/lab2/solution_v1.ipynb" | relative_url }})
-- Laboratory 3: (*released: TBA, deadline: TBA*)
+- Laboratory 3: (*released: Nov. 17 2025, deadline: Dec. 8 2025*)
 <br>
 [[Task]]({{ "/assets/assignments/lab3/lab3.zip" | relative_url }})
 [[Solution]]({{ "/assets/assignments/lab3/solution_v1.ipynb" | relative_url }})
