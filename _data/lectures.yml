@@ -131,8 +131,10 @@
 
 - date: Thurs, 2025/11/20
   title: >
-    <strong> Recurrent Neural Network </strong>
-  slides: "../assets/slides/lecture9.pdf"
+    <strong> Convolutional Neural Network (continued), Recurrent Neural Network </strong>
+  slides: 
+    - "../assets/slides/lecture8.pdf"
+    - "../assets/slides/lecture9.pdf"
   readings: 
   logistics:
 
