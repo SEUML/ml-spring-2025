@@ -14,7 +14,7 @@ There will be four homework assignments during the semester. You may discuss the
 - Homework 2: (*released: Nov. 1, 2025 , deadline: Nov. 22, 2025*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw2/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw2/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw2/solution_v1.pdf" | relative_url }})
-- Homework 3: (*released: TBA, deadline: TBA*)
+- Homework 3: (*released: Nov 24, deadline: Dec. 16*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw3/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw3/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw3/solution_v1.pdf" | relative_url }})
 - Homework 4: (*released: TBA, deadline: TBA*)
