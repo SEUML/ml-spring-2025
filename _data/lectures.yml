@@ -192,6 +192,15 @@
   readings: 
   logistics: 
 
+
+- date: Mon, 2026/01/19
+  title: >
+    <strong>期末考试 （时间 14:00-16:00、地点 教八-302） </strong>
+  slides: "../assets/slides/lecture6.pdf"
+  readings: 
+  logistics: 
+
+
 # - date: Thurs, 2025/12/25
 #   title: >
 #     <strong> Review, Q&A </strong>
