@@ -50,4 +50,4 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 - Laboratory 4: (*released: Dec. 9 2025, deadline: Jan. 6 2026 *)
 <br>
 [[Task]]({{ "/assets/assignments/lab4/lab4.zip" | relative_url }})
-- [[Solution]]({{ "/assets/assignments/lab4/solution_v1.ipynb" | relative_url }})
+[[Solution]]({{ "/assets/assignments/lab4/solution_v1.ipynb" | relative_url }})
