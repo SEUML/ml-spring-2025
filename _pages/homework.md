@@ -17,7 +17,7 @@ There will be four homework assignments during the semester. You may discuss the
 - Homework 3: (*released: Nov 24, deadline: Dec. 16*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw3/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw3/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw3/solution_v1.pdf" | relative_url }})
-- Homework 4: (*released: TBA, deadline: TBA*)
+- Homework 4: (*released: Dec. 16, deadline: Dec. 31*)
 <br>
 [[Assignment]]({{ "/assets/assignments/hw4/assignment_v1.pdf" | relative_url }}){:target="\_blank"}{:target="\_blank"}{:target="\_blank"} [[LaTeX template]]({{ "/assets/assignments/hw4/latex_v1.tex" | relative_url }}){:target="\_blank"} [[Solution]]({{ "/assets/assignments/hw4/solution_v1.pdf" | relative_url }})
 
@@ -50,3 +50,4 @@ There will be four laboratories. Each laboratory is meant to implement some mach
 - Laboratory 4: (*released: Dec. 9 2025, deadline: Jan. 6 2026 *)
 <br>
 [[Task]]({{ "/assets/assignments/lab4/lab4.zip" | relative_url }})
+- [[Solution]]({{ "/assets/assignments/lab4/solution_v1.ipynb" | relative_url }})

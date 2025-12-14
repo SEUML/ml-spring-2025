@@ -1,0 +1,152 @@
+\documentclass[12pt,letterpaper, onecolumn]{exam}
+\usepackage{bm}
+\usepackage{booktabs}
+\usepackage{amsmath,amsfonts}
+\usepackage{amssymb,amsthm}
+\usepackage[lmargin=71pt, tmargin=1.2in]{geometry}  %For centering solution box
+\geometry{top=25.4mm,bottom=25.4mm,left=20mm,right=20mm,headheight=2.17cm,headsep=4mm,footskip=12mm}
+% \lhead{Leaft Header\\}
+% \rhead{Right Header\\}
+% \chead{\hline} % Un-comment to draw line below header
+\thispagestyle{empty}   %For removing header/footer from page 1
+
+\begin{document}
+
+\begingroup  
+    \centering
+    \LARGE Machine Learning\\
+    \LARGE Homework 4\\[0.5em]
+    \large Dec. 2025\\[0.5em]
+    \large Fill your Name\par
+    \large Fill your Student ID\par
+\endgroup
+\rule{\textwidth}{0.4pt}
+\pointsdroppedatright   %Self-explanatory
+\printanswers
+\renewcommand{\solutiontitle}{\noindent\textbf{Ans:}\enspace}   %Replace "Ans:" with starting keyword in solution box
+
+\begin{questions} 
+    \question Here is a sample table. Please use the data in the table~\ref{tab:decision_tree} to solve the decision tree-related problems.
+    \begin{table}[!h]
+        \centering
+        \begin{tabular}{c|ccccc}
+        \toprule[2pt]
+            \textbf{Day} & \textbf{Outlook} & \textbf{Temperature} & \textbf{Humidity} & \textbf{wind} & \textbf{Play Tennis}\\
+            \midrule
+            D1& Sunny & Hot & High & Weak & No \\
+            D2& Sunny & Hot & High & Strong & No \\
+            D3& Overcast & Hot & High & Weak & Yes \\
+            D4& Rain & Mild & High & Weak & Yes \\
+            D5& Rain & Cool & Normal & Weak & Yes \\
+            D6& Rain & Cool & Normal & Strong & No \\
+            D7& Overcast & Cool & Normal & Strong & Yes \\
+            D8& Sunny & Mild & High & Weak & No \\
+            D9& Sunny & Cool & Normal & Weak & Yes \\
+            D10& Rain & Mild & Normal & Weak & Yes \\
+            D11& Sunny & Mild & Normal & Strong & Yes \\
+            D12& Overcast & Mild & High & Strong & Yes \\
+            D13& Overcast & Hot & Normal & Weak & Yes \\
+            D14& Rain & Hot & High & Strong & No \\
+            
+        \bottomrule[2pt]
+        \end{tabular}
+        \caption{Instances for building a decision tree.}
+        \label{tab:decision_tree}
+    \end{table}
+    
+    \begin{parts}
+        \part Compute the Overall Entropy.
+        \part Compute the information gain and select the root node of the decision tree.
+    \end{parts}
+    
+    \begin{solution}
+        \begin{parts}
+            \part 
+            
+            \part
+            
+        \end{parts}
+    \end{solution}
+
+    \newpage
+    \question Here is a sample table. Please use the data in the table~\ref{tab:naive_bayes} to solve the naive Bayes-related problems.
+        \begin{table}[!h]
+            \centering
+            
+            \begin{tabular}{c|ccccc}
+            \toprule[2pt]
+                \textbf{ID} & \textbf{age} & \textbf{income} & \textbf{student} & \textbf{credit rating} & \textbf{buy computer}\\
+                \midrule
+                1 & \textless30 & high & no & fair & no\\
+                2 & \textless30 & high & no & excellent & no\\
+                3 & 30-40 & high & no & fair & yes\\
+                4 & \textgreater40 & medium & no & fair & yes\\
+                5 & \textgreater40 & low & yes & fair & yes\\
+                6 & \textgreater40 & low & yes & excellent & no\\
+                7 & 30-40 & low & yes & excellent & yes\\
+                8 & \textless30 & medium & no & fair & no\\
+                9 & \textless30 & low & yes & fair & yes\\
+                10 & \textgreater40 & medium & yes & fair & yes\\
+                11 & \textless30 & medium & yes & excellent & yes\\
+                12 & 30-40 & medium & no & excellent & yes\\
+                13 & 30-40 & high & yes & fair & yes\\
+                14 & \textgreater40 & medium & no & excellent & no\\
+            \bottomrule[2pt]
+            \end{tabular}
+            \caption{Instances for naive Bayes}
+            \label{tab:naive_bayes}
+        \end{table}
+
+    \begin{parts}
+        \part Computer the prior probability.
+        \part Computer the conditional probability of "age".
+        \part Given the new samples: x = (age$<$30, income=medium, student=yes, credit rating=fair). Based on Naive Bayesian calculations, it determines whether to purchase a computer.
+    \end{parts}
+    
+    
+    \begin{solution}
+        \begin{parts}
+            \part 
+
+            \part 
+
+            \part
+           
+        \end{parts}
+    \end{solution}
+
+    \newpage
+
+    \question Perform clustering analysis on the following two-dimensional data using the k-medoids algorithm. Assuming k=2, initialize the cluster centers using data points G and H. Calculate the similarity between any two points using Manhattan distance.
+
+    \begin{table}[!h]
+        \centering
+        \begin{tabular}{c|cccccccc}
+            \toprule[2pt]
+             ID       & A & B & C & D & E & F & G & H \\
+             \midrule
+             feature 1& 1.2 & 2.1 & 1.9 & 2.3 & 3.1 & 4.2 & 1.2 & 3.3 \\
+             feature 2& 1.1 & 2.4 & 3.1 & 4.2 & 4 & 4 & 1 & 2.2 \\
+             \bottomrule[2pt]
+        \end{tabular}
+        \caption{Instances for the k-medoids}
+        \label{tab:cluster}
+    \end{table}
+    
+    \begin{parts}
+        \part  Provide the clustering results and key computational steps.
+    \end{parts}
+
+
+    \begin{solution}
+        \begin{parts}
+            \part 
+            
+        \end{parts} 
+    \end{solution}
+
+    
+\end{questions}
+\end{document}
+
+
